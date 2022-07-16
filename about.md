@@ -14,7 +14,11 @@ Imagine my surprise and joy on discovering in 2018 that analytics and coding ski
 
 Do what you love.  Love what you do.  Happy to chat with you about any opportunities where Data Science and I might be able to help.
 
-### More Information
+### Contact Information
+Craig Adams, PhD., GDBA
+Principal Data Scientist
+Elementary Insights Inc.
 
-https://www.linkedin.com/in/craig-adams/
+email: [craig.adams@elementaryinsights.com](mailto:craig.adams@elementaryinsights.com)
+LinkedIn : https://www.linkedin.com/in/craig-adams/
 
