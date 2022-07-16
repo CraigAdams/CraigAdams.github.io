@@ -16,10 +16,6 @@ Do what you love.  Love what you do.  Happy to chat with you about any opportuni
 
 ### Contact Information
 
-Craig Adams, PhD., GDBA
-Principal Data Scientist
-Elementary Insights Inc.
-
 email: [craig.adams@elementaryinsights.com](mailto:craig.adams@elementaryinsights.com)
 
 
