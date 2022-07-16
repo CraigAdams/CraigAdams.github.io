@@ -18,6 +18,3 @@ Do what you love.  Love what you do.  Happy to chat with you about any opportuni
 
 https://www.linkedin.com/in/craig-adams/
 
-### Contact me
-
-[craig.adams@elementaryinsights.com](mailto:craig.adams@elementaryinsights.com)
