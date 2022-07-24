@@ -9,7 +9,7 @@ I found a case study to explore this space in the world of Equipment Reliability
 
 Coles notes version is [here](https://github.com/CraigAdams/BrainStation_Capstone/blob/main/reports/Craig_Adams_Capstone_Report.pdf)
 
-Full meal deal starts with Part 1 [here](https://github.com/CraigAdams/BrainStation_Capstone/blob/main/Craig_Adams_Capstone_Part1_July22.md)
+Full meal deal starts with Part 1 [here](https://github.com/CraigAdams/BrainStation_Capstone/blob/main/)
 
 Cheers,
 Craig
