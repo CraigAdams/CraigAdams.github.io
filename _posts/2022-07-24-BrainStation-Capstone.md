@@ -9,9 +9,9 @@ I found a case study to explore this space in the world of Equipment Reliability
 
 Coles notes version is [here](https://github.com/CraigAdams/BrainStation_Capstone/blob/main/reports/Craig_Adams_Capstone_Report.pdf)
 
-Full meal deal starts with the README file and Part 1 [here](https://github.com/CraigAdams/BrainStation_Capstone/)
+Video summary is [here](https://www.loom.com/share/e598f20562ff4a9b836596b9638c7e68)
 
-Video summary for downloading: [here](https://www.loom.com/share/e598f20562ff4a9b836596b9638c7e68)
+Full meal deal starts with the README file and Part 1 [here](https://github.com/CraigAdams/BrainStation_Capstone/)
 
 Cheers,
 Craig
