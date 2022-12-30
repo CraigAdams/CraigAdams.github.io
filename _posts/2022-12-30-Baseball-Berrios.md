@@ -13,6 +13,6 @@ they are hitting his four-seam fastball hardest vs his other pitches (two-seam/s
 his mechanics (aka position on the rubber and release point) are in flux and have been on and off since 2018 where his ERA and FIP were 3.84/3.90.
 his pitches seem to be distinguishable from a batter's perspective...and have been for several years
 
-[[https://github.com/CraigAdams/CraigAdams.github.io/blob/master/_posts/data/Berrios_release_points.png]]
+![Berrios_release_points]({{"/_posts/data/Berrios_release_points.png"| relative_url}})
 
 Maybe nothing has really changed for Jose in the past few years. Maybe that is the problem. I have seen and heard that teams can now set up VR to have hitters practice facing pitchers prior to a game. Maybe teams can now leverage the differences in his release position to take advantage and jump on his fastballs knowing that it isn't his curve or changeup?
